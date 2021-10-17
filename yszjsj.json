@@ -1064,8 +1064,8 @@
   "prase": [
     {
       "id": 1,
-      "parseName": "OK解析",
-      "parseUrl": "https://okjx.cc/?url=",
+      "parseName": "江湖解析",
+      "parseUrl": "https://123.xxgcx.cn:4433/jx.php?url=",
       "click": true
     },
     {
