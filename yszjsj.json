@@ -1064,8 +1064,8 @@
   "prase": [
     {
       "id": 1,
-      "parseName": "江湖解析",
-      "parseUrl": "https://123.xxgcx.cn:4433/jx.php?url=",
+      "parseName": "全民解析",
+      "parseUrl": "http://jx.quanmingjiexi.com:80/?url=",
       "click": true
     },
     {
