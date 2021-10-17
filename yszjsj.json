@@ -1070,8 +1070,8 @@
     },
     {
       "id": 2,
-      "parseName": "全民解析",
-      "parseUrl": "http://jx.quanmingjiexi.com:80/?url=",
+      "parseName": "M3U8.tv",
+      "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "click": true
     },   
     {
