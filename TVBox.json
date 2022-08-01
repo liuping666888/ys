@@ -145,16 +145,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Kmys",
-            "name": "酷猫(SP)",
-            "type": 3,
-            "api": "csp_Kmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"http://ys-d.ys168.com/m/tjl1995/lgEl4D7URK0If4SO6J/2hckAB7velcla6-dske5KiiBl-UNh/km.jar"
-        },
-        {
             "key": "csp_77",
             "name": "77(SP)",
             "type": 3,
