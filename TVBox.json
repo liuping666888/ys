@@ -14,17 +14,6 @@
        	    "jar": "https://pan.css.lc/api/v3/file/get/88968/baikan-1.jar?sign=oJyOoxff9EDOT6lRHDnGVIyJH3KfskuNGoFPrf7IUT4%3D%3A0"
        	},
         {
-       	    "key": "360_spider",
-       	    "name": "360〔官源〕",
-       	    "type": 3,
-       	    "api": "csp_YS360",
-       	    "searchable": 1,
-       	    "quickSearch": 1,
-       	    "filterable": 1,
-       	    "ext": "https://house100.github.io/mao/sub/XP/360.json",
-       	    "jar": "https://pan.css.lc/api/v3/file/get/88968/baikan-1.jar?sign=oJyOoxff9EDOT6lRHDnGVIyJH3KfskuNGoFPrf7IUT4%3D%3A0"
-       	},
-        {
             "key":"追剧喵",
             "name":"追剧喵(SP)",
             "type":3,
