@@ -1,14 +1,7 @@
 {
     "wallpaper": "https://pan.css.lc/api/v3/file/get/62517/wallpaper3.webp?sign=r-e-Ptw3ad5fF6Bnj3raiL8rhHIm_8s_lKWMy7GHakk%3D%3A0",
     "spider": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/07180853.jar",
-   	"lives": [{
-		"group": "redirect",
-		"channels": [{
-			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20veGlhdGlhbjIwMjEvemJ5L3Jhdy9icmFuY2gvemJ5L3pieS50eHQ"]
-		}]
-	}],
- "sites": [
+    "sites": [
         {
        	    "key": "360_spider",
        	    "name": "360〔官源〕",
@@ -4183,7 +4176,13 @@
             "searchable": 1,
             "quickSearch": 1
         }
-        ],
+		],
+	"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "live",
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20veGlhdGlhbjIwMjEvemJ5L3Jhdy9icmFuY2gvemJ5L3pieS50eHQ"]
+	}],
    "parses": [
         {
             "name": "Json轮询（推荐）",
