@@ -4176,11 +4176,22 @@
             "searchable": 1,
             "quickSearch": 1
         }
-
-],
- "lives": [
-{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20veGlhdGlhbjIwMjEvemJ5L3Jhdy9icmFuY2gvemJ5L3pieS50eHQ="]}]}],
-"parses":[
+    ],
+    "lives": [
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "redirect",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20veGlhdGlhbjIwMjEvemJ5L3Jhdy9icmFuY2gvemJ5L3pieS50eHQ"
+                    ]
+                }
+            ]
+        }
+    ],
+    "parses": [
+[
         {
             "name": "Json轮询（推荐）",
             "type": 2,
