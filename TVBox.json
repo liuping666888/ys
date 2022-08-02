@@ -4175,8 +4175,9 @@
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1
-        },
-{	"lives": [{
+        }
+        ],
+	"lives": [{
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
