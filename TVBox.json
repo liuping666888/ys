@@ -4411,36 +4411,6 @@
             }
         },
         {
-            "name": "星辰解析（全球）",
-            "type": 1,
-            "url": "https://svip.spchat.top/api/?key=O9HGeIVUqU3REsnmQP&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "xigua",
-                    "rongxing",
-                    "rx",
-                    "xfy",
-                    "xueren"
-                ]
-            }
-        },
-        {
             "name": "天成解析（梦幻）",
             "type": 1,
             "url": "http://json.1920lgzy.top/home/api?type=ys&uid=11380&key=abelorstuvBCDHKN49&url=",
@@ -4646,7 +4616,7 @@
         {
             "name": "爱酷解析",
             "type": 1,
-            "url": "https://json.iku.cool/api/?key=bcZxWfy3h241UpPSeq&url=",
+            "url": "https://cache.json.icu/home/api?type=ys&uid=58291&key=bdijprtxADFHJKPW45&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -4661,36 +4631,6 @@
                     "iqiyi",
                     "爱奇艺",
                     "奇艺"
-                ]
-            }
-        },
-        {
-            "name": "无尽",
-            "type": 1,
-            "url": "http://www.wujintv.com/lx/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "xigua",
-                    "rongxing",
-                    "rx",
-                    "xfy",
-                    "xueren"
                 ]
             }
         },
@@ -4717,31 +4657,6 @@
                     "renrenmi",
                     "ltnb",
                     "xigua"
-                ]
-            }
-        },
-        {
-            "name": "你好解析（80kk）",
-            "type": 1,
-            "url": "https://v.2080kk.com/home/api?type=ys&uid=1308653&key=behnpstwxBCHJMQ029&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
                 ]
             }
         },
