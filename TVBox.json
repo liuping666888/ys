@@ -3,6 +3,17 @@
     "spider": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/07180853.jar",
     "sites": [
         {
+            "key": "360_spider",
+            "name": "360影视",
+            "api": "csp_SP360",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "",
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/360.jar"
+        },
+        {
             "key": "追剧喵",
             "name": "追剧喵(SP)",
             "type": 3,
