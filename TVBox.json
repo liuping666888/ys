@@ -206,6 +206,16 @@
         },
         {
             "key": "csp_biubiu_acmv",
+            "name": "桔子TV(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/juzitv.json"
+        },
+        {
+            "key": "csp_biubiu_acmv",
             "name": "酷客-不支持搜索(Biu)",
             "type": 3,
             "api": "csp_XBiubiu",
