@@ -205,7 +205,7 @@
             "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
         },
         {
-            "key": "csp_biubiu_acmv",
+            "key": "csp_biubiu_juziTV",
             "name": "桔子TV(Biu)",
             "type": 3,
             "api": "csp_XBiubiu",
@@ -215,7 +215,7 @@
             "ext": "https://gitea.com/tjl/xpath/raw/branch/main/juzitv.json"
         },
         {
-            "key": "csp_biubiu_acmv",
+            "key": "csp_biubiu_kukebuzhichisousuo",
             "name": "酷客-不支持搜索(Biu)",
             "type": 3,
             "api": "csp_XBiubiu",
