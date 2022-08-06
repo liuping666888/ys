@@ -215,6 +215,16 @@
             "ext": "https://gitea.com/tjl/xpath/raw/branch/main/acmv.json"
         },
         {
+            "key": "csp_biubiu_vidhub",
+            "name": "VIDHUB(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/VIBHUB.json"
+        },
+        {
             "key": "csp_biubiu_ssdy",
             "name": "双十电影(Biu)",
             "type": 3,
