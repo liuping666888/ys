@@ -205,6 +205,16 @@
             "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
         },
         {
+            "key": "csp_biubiu_tsw",
+            "name": "听书网(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/tingshu.json"
+        },
+        {
             "key": "csp_biubiu_yklg",
             "name": "夜空蓝光(Biu)",
             "type": 3,
