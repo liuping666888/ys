@@ -43,7 +43,18 @@
             "filterable": 1,
             "jar": "https://pan.css.lc/api/v3/file/get/88974/%E5%8E%82%E9%95%BF%E5%A4%A9%E7%A9%BA.jar?sign=d5kqKvOODinlC9SKuDu8yS3jZcdYoW9diFtW28q0thY%3D%3A0"
         },
-{
+        {
+            "key": "Gitcafe",
+            "name": "阿里网盘",
+            "type": 3,
+            "api": "csp_GitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "dcbc975ad0684eb5a498ecd1836272e6",
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E9%98%BF%E9%87%8C%E7%BD%91%E7%9B%98.txt?raw=true"
+        },
+        {
             "key": "csp_Alips",
             "name": "阿里网盘(只支持搜索)",
             "type": 3,
