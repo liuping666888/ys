@@ -2658,6 +2658,25 @@
             "quickSearch": 1
         },
         {
+            "key":"ok",
+            "name":"欧克影视",
+            "type":0,
+            "api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"GGTV",
+            "name":"刚刚影视",
+            "type":0,
+            "api":"http://mov.fuqizhishi.com/api.php/provide/vod/at/xml/",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+            
+        },
+        {
             "key": "搬运工资源",
             "name": "搬运工资源",
             "type": 1,
