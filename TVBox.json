@@ -4286,50 +4286,6 @@
             "url": "Parallel"
         },
         {
-            "name": "勿念",
-            "type": 1,
-            "url": "http://svip.nfjx.xyz/api/?key=4vGroUPwKVxhmWhnNE&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "letv",
-                    "乐视",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "可乐解析（可乐）",
-            "type": 0,
-            "url": "https://www.klyingshi.com/jx/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "letv",
-                    "乐视",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
             "name": "roogxing VR（佑尘）",
             "type": 1,
             "url": "https://vip.rongxingvr.top/api/?key=2Xj3q3CEcUMapWVeM5&url=",
@@ -4396,27 +4352,6 @@
             "name": "蓝影解析（大V）",
             "type": 1,
             "url": "https://vip.nicefamily.club/api/?key=qoryRr3PttvocpOnni&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "youku",
-                    "优酷",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺"
-                ]
-            }
-        },
-        {
-            "name": "VIP影院",
-            "type": 1,
-            "url": "http://106.52.218.221:88/?url=",
             "ext": {
                 "flag": [
                     "qq",
