@@ -385,6 +385,65 @@
             "filterable": 1,
             "ext": "https://gitea.com/tjl/xpath/raw/branch/main/ggtv.json"
         },
+{
+            "key": "csp_xpath_chok8dy",
+            "name": "CHOK吧电影院(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/chok8.json"
+        },        {
+            "key": "csp_xpath_lgyy",
+            "name": "蓝光影院(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/lgyy.json"
+        },
+        {
+            "key": "csp_xpath_gfys",
+            "name": "干饭影视(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/gfys.json"
+        },
+        {
+            "key": "csp_xpath_dmxq",
+            "name": "大米星球(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/dmxq.json"
+        },
+        {
+            "key": "csp_xpath_tkys",
+            "name": "天空影视(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/tkys.json"
+        },
+        {
+            "key": "csp_xpath_ddg",
+            "name": "达达龟(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/ddg.json"
+        },
         {
             "key": "csp_xpath_555dy",
             "name": "555电影-仅搜索(XP)",
