@@ -387,7 +387,7 @@
         },
 {
             "key": "csp_xpath_chok8dy",
-            "name": "CHOK吧电影院(XP)",
+            "name": "CHOK吧电影院-仅搜索(XP)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -396,7 +396,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/chok8.json"
         },        {
             "key": "csp_xpath_lgyy",
-            "name": "蓝光影院(XP)",
+            "name": "蓝光影院-仅搜索(XP)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -406,7 +406,7 @@
         },
         {
             "key": "csp_xpath_gfys",
-            "name": "干饭影视(XP)",
+            "name": "干饭影视-仅搜索(XP)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -416,7 +416,7 @@
         },
         {
             "key": "csp_xpath_dmxq",
-            "name": "大米星球(XP)",
+            "name": "大米星球-仅搜索(XP)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -426,7 +426,7 @@
         },
         {
             "key": "csp_xpath_tkys",
-            "name": "天空影视(XP)",
+            "name": "天空影视-仅搜索(XP)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -436,7 +436,7 @@
         },
         {
             "key": "csp_xpath_ddg",
-            "name": "达达龟(XP)",
+            "name": "达达龟-仅搜索(XP)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
