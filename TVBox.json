@@ -4354,6 +4354,27 @@
             "url": "Parallel"
         },
         {
+            "name": "时光直解（飞捷）",
+            "type": 1,
+            "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺"
+                ]
+            }
+        },
+        {
             "name": "roogxingM3u8（荔枝）",
             "type": 0,
             "url": "http://www.zjds.cc/jx/gqys.php?url=",
