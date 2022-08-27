@@ -44,37 +44,45 @@
             "jar": "https://pan.css.lc/api/v3/file/get/88974/%E5%8E%82%E9%95%BF%E5%A4%A9%E7%A9%BA.jar?sign=d5kqKvOODinlC9SKuDu8yS3jZcdYoW9diFtW28q0thY%3D%3A0"
         },
         {
-            "key": "Gitcafe",
-            "name": "阿里网盘",
+            "key": "Lezhu_spider",
+            "name": "乐猪(爬虫)",
+            "api": "csp_Lezhu",
             "type": 3,
-            "api": "csp_GitCafe",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E5%B7%A7%E8%AE%A1.jar?raw=true"
+        },
+        {
+            "key": "神马影院",
+            "name": "神马(爬虫)",
+            "type": 3,
+            "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "dcbc975ad0684eb5a498ecd1836272e6",
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E9%98%BF%E9%87%8C%E7%BD%91%E7%9B%98.txt?raw=true"
+            "jat":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E5%B7%A7%E8%AE%A1.jar?raw=true"
         },
         {
-            "key": "csp_Alips",
-            "name": "阿里网盘(只支持搜索)",
+            "key": "Bili",
+            "name": "Bili(爬虫)",
             "type": 3,
-            "api": "csp_AliPanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "",
-            "jar": "http://ys-g.ys168.com/m/tjl1995/lgEl4D8VSL1JgaTP7K/4hckAB7ve586d7-fske5KiiD7-UNh/%E7%BD%91%E7%9B%98.jar"
-        },
-        {
-            "key": "FindZY",
-            "name": "找资源-仅搜索",
-            "type": 3,
-            "api": "csp_FindZY",
+            "api": "csp_Bili",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "",
-            "jar": "http://ys-g.ys168.com/m/tjl1995/lgEl4D8VSL1JgaTP7K/4hckAB7ve586d7-fske5KiiD7-UNh/%E7%BD%91%E7%9B%98.jar"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/bili.json",
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E5%B7%A7%E8%AE%A1.jar?raw=true"
+        },
+        {
+            "key": "神马影院",
+            "name": "神马(爬虫)",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jat":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E5%B7%A7%E8%AE%A1.jar?raw=true"
         },
         {
             "key": "KanSJ_spider",
