@@ -54,18 +54,8 @@
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E5%B7%A7%E8%AE%A1.jar?raw=true"
         },
         {
-            "key": "神马影院",
-            "name": "神马(爬虫)",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jat":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E5%B7%A7%E8%AE%A1.jar?raw=true"
-        },
-        {
             "key": "Bili",
-            "name": "Bili(爬虫)",
+            "name": "哔哩套餐(SP)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -73,16 +63,6 @@
             "filterable": 1,
             "ext": "https://gitea.com/dxa/6/raw/branch/main/bili.json",
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E5%B7%A7%E8%AE%A1.jar?raw=true"
-        },
-        {
-            "key": "神马影院",
-            "name": "神马(爬虫)",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jat":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E5%B7%A7%E8%AE%A1.jar?raw=true"
         },
         {
             "key": "KanSJ_spider",
