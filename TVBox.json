@@ -1519,7 +1519,24 @@
                     "腾讯"
                 ]
             }
+        },
+         {
+            "name": "青松超清解析",
+            "type": 0,
+            "url": "https://jx.4kdyw.cn/vip/?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯"
+                ]
+            }
         }
+
     ],
     "flags": [
         "youku",
