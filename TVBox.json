@@ -935,6 +935,27 @@
             }
         },
         {
+            "name": "江湖1080直解（星空）",
+            "type": 1,
+            "url": "http://jx.vipmv.co/json.php?token=123457&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺"
+                ]
+            }
+        },
+        {
             "name": "roogxingM3u8（荔枝）",
             "type": 0,
             "url": "http://www.zjds.cc/jx/gqys.php?url=",
