@@ -914,9 +914,9 @@
             "url": "Parallel"
         },
         {
-            "name": "顾凌解析",
+            "name": "懒懒解析",
             "type": 0,
-            "url": "http://bf.xxmlb.com/?url=",
+            "url": "http://123.57.56.94:9931/zuoan/?url=",
             "ext": {
                 "flag": [
                     "qq",
