@@ -914,9 +914,30 @@
             "url": "Parallel"
         },
         {
-            "name": "懒懒解析",
+            "name": "懒懒解析1",
             "type": 1,
             "url": "http://123.57.56.94:9931/zuoan/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺"
+                ]
+            }
+        },
+        {
+            "name": "懒懒解析2",
+            "type": 1,
+            "url": "http://lanlan.ckflv.cn/?url=",
             "ext": {
                 "flag": [
                     "qq",
