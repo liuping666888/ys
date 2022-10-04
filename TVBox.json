@@ -1145,6 +1145,54 @@
                 ]
             }
         },
+{
+            "name": "思古解析",
+            "type": 0,
+            "url": "https://jsap.attakids.com/?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯"
+                ]
+            }
+        },
+                {
+            "name": "解析啦",
+            "type": 0,
+            "url": "https://www.jiexila.com/?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯"
+                ]
+            }
+        },
+                {
+            "name": "Play m3u8解析",
+            "type": 0,
+            "url": "https://www.playm3u8.cn/jiexi.php?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯"
+                ]
+            }
+        },
         {
             "name": "全网解析（QC）",
             "type": 0,
