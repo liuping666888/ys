@@ -398,6 +398,16 @@
         },
 {
             "key": "csp_xpath_chok8dy",
+            "name": "555电影-仅搜索(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mdstm/tvbox/7b6bc7d17171d24664cf3dfb1a10332cd1dc4bc2/xp/555dy.json"
+        },
+        {
+            "key": "csp_xpath_chok8dy",
             "name": "CHOK吧电影院-仅搜索(XP)",
             "type": 3,
             "api": "csp_XPathFilter",
