@@ -396,16 +396,6 @@
             "filterable": 1,
             "ext": "https://gitea.com/tjl/xpath/raw/branch/main/ggtv.json"
         },
-{
-            "key": "csp_xpath_chok8dy",
-            "name": "555电影-仅搜索(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/c0b8d44b5d227c97f4e2c987778b15c5830f7b2e/box/ext/ck1mqq39.json"
-        },
         {
             "key": "csp_xpath_chok8dy",
             "name": "CHOK吧电影院-仅搜索(XP)",
