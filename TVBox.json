@@ -13,6 +13,16 @@
             "ext": "",
             "jar":"https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/360.jar"
         },
+       {
+            "key": "桉t4",
+            "name": "豆瓣",
+            "type": 4,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/douban.json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/douban.jar"
+        },
         {
             "key": "追剧喵",
             "name": "追剧喵(SP)",
