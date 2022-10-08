@@ -15,7 +15,7 @@
         },
        {
             "key": "桉t4",
-            "name": "豆瓣",
+            "name": "豆瓣榜单-不支持搜索",
             "type": 4,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/douban.json",
             "searchable": 1,
