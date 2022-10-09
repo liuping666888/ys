@@ -24,6 +24,58 @@
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/douban.jar"
         },
         {
+            "key" : "Gitcafe",
+            "name" : "小纸条",
+            "type" : 3,
+            "api" : "csp_Gitcafe",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "8f0b3f0dc1834f309f077ea5549e99a8",
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
+        },
+        {
+            "key":"AliPS",
+            "name":"盘搜（仅搜索）",
+            "type":3,
+            "api":"csp_AliPS",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3",
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
+        },
+        {
+            "key" : "csp_QQ",
+            "name" : "腾讯（官）",
+            "type" : 3,
+            "api" : "csp_QQ",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
+        },
+        {
+            "key" : "csp_MGTV",
+            "name" : "芒果（官）",
+            "type" : 3,
+            "api" : "csp_MGTV",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
+        },
+        {
+            "key" : "csp_IQIYI",
+            "name" : "爱奇艺（官）",
+            "type" : 3,
+            "api" : "csp_IQIYI",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
+        },
+        {
             "key": "追剧喵",
             "name": "追剧喵(SP)",
             "type": 3,
