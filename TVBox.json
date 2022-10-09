@@ -52,7 +52,6 @@
             "api": "https://suanjin.github.io/tv/main/js/lib/drpy.js",
             "ext": "https://suanjin.github.io/tv/main/js/优酷.js",
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/Your.jar"
-            
         }, 
         {
             "key" : "csp_QQ",
