@@ -159,16 +159,6 @@
             "jar": "https://pan.css.lc/api/v3/file/get/88967/%E7%9C%8B%E8%A7%86%E7%95%8C.txt?sign=6cV7du5arLoAejkJ_TL0TxtVVt2OCq49wK8NfVVms94%3D%3A0"
         },
         {
-            "key": "csp_IKan",
-            "name": "爱看影视(SP)",
-            "type": 3,
-            "api": "csp_IKan",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1,
-            "jar": "https://pan.css.lc/api/v3/file/get/88094/%E7%88%B1%E7%9C%8B.jar?sign=G4LN9e-uHyxq9vnUgHNGk-8oNdtia7Pt-AWvVPSFmR8%3D%3A0"
-        },
-        {
             "key": "csp_kuaikan",
             "name": "👀快看(SP)",
             "type": 3,
@@ -178,15 +168,18 @@
             "filterable": 1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/12.jar"
         },
-        {
-            "key": "csp_BBB",
-            "name": "哔哩套餐(SP)",
-            "type": 3,
-            "api": "csp_BBB",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+       {
+		"key": "csp_BBBb",
+		"name": "b站大杂烩",
+		"type": 3,
+		"api": "csp_Bili",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://raw.kgithub.com/wjjkkk/w/main/bilibili.json",
+		"jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/bzdzh.jar"
+		},  
+
         {
             "key": "csp_apple",
             "name": "小苹果(SP)",
